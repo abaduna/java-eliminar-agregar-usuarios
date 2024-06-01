@@ -4,6 +4,8 @@
 
 package com.mycompany.sistemadegestiondecliente2;
 
+import com.mycompany.sistemadegestiondecliente2.forms.Formulario;
+
 /**
  *
  * @author artur
